@@ -1,0 +1,5 @@
+# Private workbook-driven dashboard contains client engagement data
+outputs/pillar-two-owner-dashboard.html
+# Local CLI download and scratch files
+work/
+.DS_Store
